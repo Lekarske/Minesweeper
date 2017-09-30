@@ -1,0 +1,3 @@
+D:/C.C. UCSP/repos/Minesweeper/build/mak.mingw/CMakeFiles/Buscaminas.dir
+D:/C.C. UCSP/repos/Minesweeper/build/mak.mingw/CMakeFiles/edit_cache.dir
+D:/C.C. UCSP/repos/Minesweeper/build/mak.mingw/CMakeFiles/rebuild_cache.dir
